@@ -1,0 +1,4 @@
+[
+    { "keys": ["super+ä"], "command": "indent" },
+    { "keys": ["super+ö"], "command": "unindent" }
+]
