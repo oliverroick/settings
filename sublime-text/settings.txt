@@ -1,0 +1,13 @@
+{
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"ensure_newline_at_eof_on_save": true,
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"SublimeLinter-rst",
+		"Vintage"
+	],
+	"rulers": [79],
+	"show_encoding": true,
+	"translate_tabs_to_spaces": true
+}
