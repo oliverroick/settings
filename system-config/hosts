@@ -1,0 +1,35 @@
+##
+# Host Database
+#
+# localhost is used to configure the loopback interface
+# when the system is booting.  Do not change this entry.
+##
+127.0.0.1       localhost
+255.255.255.255 broadcasthost
+::1             localhost
+127.0.0.1       facebook.com
+127.0.0.1       www.facebook.com
+127.0.0.1       zeit.de
+127.0.0.1       www.zeit.de
+127.0.0.1       sueddeutsche.de
+127.0.0.1       www.sueddeutsche.de
+127.0.0.1       kicker.de
+127.0.0.1       www.kicker.de
+127.0.0.1       11freunde.de
+127.0.0.1       www.11freunde.de
+127.0.0.1       nytimes.com
+127.0.0.1       www.nytimes.com
+127.0.0.1       washingtonpost.com
+127.0.0.1       www.washingtonpost.com
+127.0.0.1       otz.de
+127.0.0.1       www.otz.de
+127.0.0.1       lvz.de
+127.0.0.1       www.lvz.de
+127.0.0.1       instagram.com
+127.0.0.1       www.instagram.com
+127.0.0.1       11freunde.de
+127.0.0.1       www.11freunde.de
+127.0.0.1       theguardian.com
+127.0.0.1       www.theguardian.com
+127.0.0.1       twitter.com
+127.0.0.1       www.twitter.com
